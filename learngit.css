@@ -8,6 +8,11 @@ header h1 {
     color: #15387c; 
 }
 
-main p {
-    margin: 10px 0; 
+#first {
+    color:#f5f3ee;
+}
+.school {
+    color:aquamarine;
+    font-weight: bold;
+
 }
